@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3道简单题（最大子序列两种解法o(N)o(N²)）", "3道简单题（最大子序列两种解法o(N)o(N²)）\3道简单题（最大子序列两种解法o(N)o(N²)）.vcxproj", "{BAF228C4-0F00-41F4-BCAA-0EC1A956AE18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF228C4-0F00-41F4-BCAA-0EC1A956AE18}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BAF228C4-0F00-41F4-BCAA-0EC1A956AE18}.Debug|Win32.Build.0 = Debug|Win32
+		{BAF228C4-0F00-41F4-BCAA-0EC1A956AE18}.Release|Win32.ActiveCfg = Release|Win32
+		{BAF228C4-0F00-41F4-BCAA-0EC1A956AE18}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
