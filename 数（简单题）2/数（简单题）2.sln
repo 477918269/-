@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数（简单题）2", "数（简单题）2\数（简单题）2.vcxproj", "{E47FE25A-EFED-431B-9692-E22A997891E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47FE25A-EFED-431B-9692-E22A997891E5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E47FE25A-EFED-431B-9692-E22A997891E5}.Debug|Win32.Build.0 = Debug|Win32
+		{E47FE25A-EFED-431B-9692-E22A997891E5}.Release|Win32.ActiveCfg = Release|Win32
+		{E47FE25A-EFED-431B-9692-E22A997891E5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
